@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/30611ac5c3e445f09221a68767dceba0/artifacts
+end_time: 1790508371253
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 30611ac5c3e445f09221a68767dceba0
+run_name: classy-cow-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508368723
+status: 3
+tags: []
+user_id: root

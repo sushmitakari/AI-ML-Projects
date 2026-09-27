@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/f1d4d01bd33d48f99daf96f54d9eda9a/artifacts
+end_time: 1790508214104
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: f1d4d01bd33d48f99daf96f54d9eda9a
+run_name: unleashed-koi-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508211513
+status: 3
+tags: []
+user_id: root

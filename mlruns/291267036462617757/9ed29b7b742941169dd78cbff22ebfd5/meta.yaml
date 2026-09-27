@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/9ed29b7b742941169dd78cbff22ebfd5/artifacts
+end_time: 1790508307182
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 9ed29b7b742941169dd78cbff22ebfd5
+run_name: bold-bat-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508304676
+status: 3
+tags: []
+user_id: root

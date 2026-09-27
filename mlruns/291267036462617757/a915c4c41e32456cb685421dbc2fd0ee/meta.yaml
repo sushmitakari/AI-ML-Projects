@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a915c4c41e32456cb685421dbc2fd0ee/artifacts
+end_time: 1790508174810
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a915c4c41e32456cb685421dbc2fd0ee
+run_name: blushing-moth-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508172250
+status: 3
+tags: []
+user_id: root

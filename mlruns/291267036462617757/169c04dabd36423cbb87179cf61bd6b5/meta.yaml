@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/169c04dabd36423cbb87179cf61bd6b5/artifacts
+end_time: 1790508303671
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 169c04dabd36423cbb87179cf61bd6b5
+run_name: gentle-fowl-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508301038
+status: 3
+tags: []
+user_id: root

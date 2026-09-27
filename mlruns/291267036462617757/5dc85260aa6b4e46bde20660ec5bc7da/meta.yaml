@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/5dc85260aa6b4e46bde20660ec5bc7da/artifacts
+end_time: 1790508324945
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 5dc85260aa6b4e46bde20660ec5bc7da
+run_name: aged-fish-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508322423
+status: 3
+tags: []
+user_id: root

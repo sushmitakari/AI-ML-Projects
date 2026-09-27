@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/b301ec7304b74d8ea120b14cb82e28ac/artifacts
+end_time: 1790508364100
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: b301ec7304b74d8ea120b14cb82e28ac
+run_name: invincible-quail-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508361576
+status: 3
+tags: []
+user_id: root

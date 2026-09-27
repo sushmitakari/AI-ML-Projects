@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/073f173acba845c09192cf06e4eaccc3/artifacts
+end_time: 1790508299993
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 073f173acba845c09192cf06e4eaccc3
+run_name: rebellious-ape-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508297497
+status: 3
+tags: []
+user_id: root

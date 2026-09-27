@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/348cb4691d7c4e79bdc6d7ed056dc301/artifacts
+end_time: 1790508282128
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 348cb4691d7c4e79bdc6d7ed056dc301
+run_name: gentle-yak-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508279620
+status: 3
+tags: []
+user_id: root

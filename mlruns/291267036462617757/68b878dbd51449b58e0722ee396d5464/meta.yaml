@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/68b878dbd51449b58e0722ee396d5464/artifacts
+end_time: 1790508221256
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 68b878dbd51449b58e0722ee396d5464
+run_name: carefree-ram-447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508218637
+status: 3
+tags: []
+user_id: root

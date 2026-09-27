@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/957c8c90900b4dec85d796226504c4a9/artifacts
+end_time: 1790508335600
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 957c8c90900b4dec85d796226504c4a9
+run_name: entertaining-hog-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508333106
+status: 3
+tags: []
+user_id: root

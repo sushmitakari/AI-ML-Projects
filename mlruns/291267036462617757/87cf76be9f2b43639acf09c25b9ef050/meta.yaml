@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/87cf76be9f2b43639acf09c25b9ef050/artifacts
+end_time: 1790508189116
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 87cf76be9f2b43639acf09c25b9ef050
+run_name: omniscient-bug-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508186559
+status: 3
+tags: []
+user_id: root

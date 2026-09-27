@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/450effb5c75f4e0c937361aa4f873b10/artifacts
+end_time: 1790508228331
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 450effb5c75f4e0c937361aa4f873b10
+run_name: secretive-shrike-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790508225772
+status: 3
+tags: []
+user_id: root
