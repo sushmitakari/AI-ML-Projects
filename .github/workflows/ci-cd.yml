@@ -1,0 +1,47 @@
+name: CI/CD for Sales Prediction Model
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r sales_project/deployment/requirements.txt
+
+      - name: Prepare Data (data_register.py)
+        run: |
+          # Create data directory if it doesn't exist (assuming Superkart.csv is present in the repo)
+          mkdir -p sales_project/data
+          # If Superkart.csv is not committed, you would add a step here to download it
+          # For now, assume it's part of the repo or a previous step handles its presence
+          python sales_project/model_building/data_register.py
+
+      - name: Preprocess Data (prep.py)
+        run: python sales_project/model_building/prep.py
+
+      - name: Train Model (train.py)
+        run: python sales_project/model_building/train.py
+
+      - name: Commit and Push if model updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sales_project/deployment/best_model.pkl
+          git commit -m "Update best_model.pkl after CI/CD run" || echo "No changes to commit"
+          git push
