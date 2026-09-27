@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/3e6decf5c45446148e6bfc79eb1508bd/artifacts
+end_time: 1790509193064
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 3e6decf5c45446148e6bfc79eb1508bd
+run_name: capricious-vole-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509190569
+status: 3
+tags: []
+user_id: root

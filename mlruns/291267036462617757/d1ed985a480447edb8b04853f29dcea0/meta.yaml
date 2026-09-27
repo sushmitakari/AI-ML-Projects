@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/d1ed985a480447edb8b04853f29dcea0/artifacts
+end_time: 1790509090098
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: d1ed985a480447edb8b04853f29dcea0
+run_name: intelligent-fawn-767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509087443
+status: 3
+tags: []
+user_id: root

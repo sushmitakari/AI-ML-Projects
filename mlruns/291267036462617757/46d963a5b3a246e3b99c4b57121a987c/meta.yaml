@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/46d963a5b3a246e3b99c4b57121a987c/artifacts
+end_time: 1790509179068
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 46d963a5b3a246e3b99c4b57121a987c
+run_name: chill-snail-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509176502
+status: 3
+tags: []
+user_id: root

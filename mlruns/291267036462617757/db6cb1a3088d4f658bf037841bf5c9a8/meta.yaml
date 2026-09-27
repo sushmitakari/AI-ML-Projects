@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/db6cb1a3088d4f658bf037841bf5c9a8/artifacts
+end_time: 1790509026218
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: db6cb1a3088d4f658bf037841bf5c9a8
+run_name: gregarious-mink-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509023743
+status: 3
+tags: []
+user_id: root

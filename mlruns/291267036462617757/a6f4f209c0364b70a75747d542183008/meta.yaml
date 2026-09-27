@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a6f4f209c0364b70a75747d542183008/artifacts
+end_time: 1790509097120
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a6f4f209c0364b70a75747d542183008
+run_name: overjoyed-duck-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509094614
+status: 3
+tags: []
+user_id: root

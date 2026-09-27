@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/98e8f72629b14a96a9a98491b10c9c44/artifacts
+end_time: 1790509210698
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 98e8f72629b14a96a9a98491b10c9c44
+run_name: funny-quail-406
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509208197
+status: 3
+tags: []
+user_id: root

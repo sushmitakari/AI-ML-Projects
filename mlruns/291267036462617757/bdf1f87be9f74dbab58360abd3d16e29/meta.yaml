@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/bdf1f87be9f74dbab58360abd3d16e29/artifacts
+end_time: 1790509136175
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: bdf1f87be9f74dbab58360abd3d16e29
+run_name: defiant-crane-840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509133696
+status: 3
+tags: []
+user_id: root

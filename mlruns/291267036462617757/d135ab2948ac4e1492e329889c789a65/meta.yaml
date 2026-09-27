@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/d135ab2948ac4e1492e329889c789a65/artifacts
+end_time: 1790509111267
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: d135ab2948ac4e1492e329889c789a65
+run_name: sassy-lynx-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509108755
+status: 3
+tags: []
+user_id: root

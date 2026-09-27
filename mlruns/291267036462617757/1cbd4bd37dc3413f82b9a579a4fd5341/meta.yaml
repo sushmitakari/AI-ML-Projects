@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/1cbd4bd37dc3413f82b9a579a4fd5341/artifacts
+end_time: 1790509015610
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 1cbd4bd37dc3413f82b9a579a4fd5341
+run_name: abundant-carp-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509013086
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/519e74a6425949c680325817f69ac044/artifacts
+end_time: 1790509139720
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 519e74a6425949c680325817f69ac044
+run_name: righteous-stork-254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509137182
+status: 3
+tags: []
+user_id: root

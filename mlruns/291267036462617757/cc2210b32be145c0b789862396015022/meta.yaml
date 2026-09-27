@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/cc2210b32be145c0b789862396015022/artifacts
+end_time: 1790509107770
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: cc2210b32be145c0b789862396015022
+run_name: tasteful-stoat-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509105222
+status: 3
+tags: []
+user_id: root

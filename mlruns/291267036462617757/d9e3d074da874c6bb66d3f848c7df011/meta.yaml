@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/d9e3d074da874c6bb66d3f848c7df011/artifacts
+end_time: 1790509068663
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: d9e3d074da874c6bb66d3f848c7df011
+run_name: auspicious-robin-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790509066162
+status: 3
+tags: []
+user_id: root
