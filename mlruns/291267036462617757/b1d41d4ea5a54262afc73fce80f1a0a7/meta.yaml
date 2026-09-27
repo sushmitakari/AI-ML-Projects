@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/b1d41d4ea5a54262afc73fce80f1a0a7/artifacts
+end_time: 1790511115498
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: b1d41d4ea5a54262afc73fce80f1a0a7
+run_name: welcoming-gnat-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511111993
+status: 3
+tags: []
+user_id: root

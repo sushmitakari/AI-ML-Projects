@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/0e3b185c5d4e4f95861efdec4df7a6fb/artifacts
+end_time: 1790514268586
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 0e3b185c5d4e4f95861efdec4df7a6fb
+run_name: luxuriant-sponge-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514265055
+status: 3
+tags: []
+user_id: root

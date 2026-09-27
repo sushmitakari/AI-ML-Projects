@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/822726d2e3fe4a3799235d937fb4f06e/artifacts
+end_time: 1790511247809
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 822726d2e3fe4a3799235d937fb4f06e
+run_name: charming-sheep-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511244340
+status: 3
+tags: []
+user_id: root

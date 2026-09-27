@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/c89757dfaf084ea7a1f81adc4339dbe7/artifacts
+end_time: 1790511022269
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: c89757dfaf084ea7a1f81adc4339dbe7
+run_name: worried-snake-61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511018762
+status: 3
+tags: []
+user_id: root

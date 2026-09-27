@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/78a5ce0a71ac47d19415f9577d8ebf39/artifacts
+end_time: 1790511213426
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 78a5ce0a71ac47d19415f9577d8ebf39
+run_name: respected-owl-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511209924
+status: 3
+tags: []
+user_id: root

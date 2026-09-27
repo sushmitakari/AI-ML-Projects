@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/6d42e21c16a7440ab36e3d15111c1884/artifacts
+end_time: 1790510471272
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 6d42e21c16a7440ab36e3d15111c1884
+run_name: burly-wren-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510467739
+status: 3
+tags: []
+user_id: root

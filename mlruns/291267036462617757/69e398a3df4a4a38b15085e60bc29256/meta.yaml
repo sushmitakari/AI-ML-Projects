@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/69e398a3df4a4a38b15085e60bc29256/artifacts
+end_time: 1790511032199
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 69e398a3df4a4a38b15085e60bc29256
+run_name: silent-foal-879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511028537
+status: 3
+tags: []
+user_id: root

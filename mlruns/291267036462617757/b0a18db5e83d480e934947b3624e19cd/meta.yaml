@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/b0a18db5e83d480e934947b3624e19cd/artifacts
+end_time: 1790510530729
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: b0a18db5e83d480e934947b3624e19cd
+run_name: redolent-fowl-932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510527183
+status: 3
+tags: []
+user_id: root

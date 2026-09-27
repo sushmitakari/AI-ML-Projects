@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/b71101614b084a388a2e949250fe43bd/artifacts
+end_time: 1790511090997
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: b71101614b084a388a2e949250fe43bd
+run_name: bemused-carp-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511087462
+status: 3
+tags: []
+user_id: root

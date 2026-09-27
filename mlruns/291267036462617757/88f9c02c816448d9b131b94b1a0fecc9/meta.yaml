@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/88f9c02c816448d9b131b94b1a0fecc9/artifacts
+end_time: 1790514470161
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 88f9c02c816448d9b131b94b1a0fecc9
+run_name: bedecked-ram-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514466676
+status: 3
+tags: []
+user_id: root

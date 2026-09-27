@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/b7c00e3b53184696bf4254717ecb3c11/artifacts
+end_time: 1790510515935
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: b7c00e3b53184696bf4254717ecb3c11
+run_name: merciful-finch-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510512411
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/6a9e2362acb244a5a4283acd5cb3d6f8/artifacts
+end_time: 1790511046892
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 6a9e2362acb244a5a4283acd5cb3d6f8
+run_name: salty-shoat-141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511043362
+status: 3
+tags: []
+user_id: root

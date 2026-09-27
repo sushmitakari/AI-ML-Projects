@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/61c42b2f4395415d84ec66bb1a5f6a46/artifacts
+end_time: 1790514371957
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 61c42b2f4395415d84ec66bb1a5f6a46
+run_name: amusing-newt-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514368466
+status: 3
+tags: []
+user_id: root

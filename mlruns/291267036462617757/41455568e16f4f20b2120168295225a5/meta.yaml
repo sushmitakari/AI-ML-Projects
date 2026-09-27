@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/41455568e16f4f20b2120168295225a5/artifacts
+end_time: 1790510293107
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 41455568e16f4f20b2120168295225a5
+run_name: trusting-crow-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510289587
+status: 3
+tags: []
+user_id: root

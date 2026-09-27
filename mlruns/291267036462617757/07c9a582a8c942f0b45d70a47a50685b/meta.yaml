@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/07c9a582a8c942f0b45d70a47a50685b/artifacts
+end_time: 1790511282039
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 07c9a582a8c942f0b45d70a47a50685b
+run_name: bright-boar-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511278547
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/e9a87f4db8d54009b05259524b4f52a5/artifacts
+end_time: 1790510593712
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: e9a87f4db8d54009b05259524b4f52a5
+run_name: receptive-shark-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510244303
+status: 3
+tags: []
+user_id: root

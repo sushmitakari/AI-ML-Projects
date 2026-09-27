@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/81c0294d58a846ff9d5e18095287d165/artifacts
+end_time: 1790510357322
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 81c0294d58a846ff9d5e18095287d165
+run_name: invincible-tern-147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510353822
+status: 3
+tags: []
+user_id: root

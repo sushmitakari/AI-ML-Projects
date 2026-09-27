@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/e292dd1b75f348b6a65ba23a1e46f2ad/artifacts
+end_time: 1790514494704
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: e292dd1b75f348b6a65ba23a1e46f2ad
+run_name: auspicious-owl-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514491173
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/1efa5e9b331b41a3821a79760c8f1c1c/artifacts
+end_time: 1790510278289
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 1efa5e9b331b41a3821a79760c8f1c1c
+run_name: mercurial-newt-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510274782
+status: 3
+tags: []
+user_id: root

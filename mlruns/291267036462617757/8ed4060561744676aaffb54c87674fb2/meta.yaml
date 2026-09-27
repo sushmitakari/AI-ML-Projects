@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/8ed4060561744676aaffb54c87674fb2/artifacts
+end_time: 1790511272222
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 8ed4060561744676aaffb54c87674fb2
+run_name: kindly-goose-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511268763
+status: 3
+tags: []
+user_id: root

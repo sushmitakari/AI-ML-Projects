@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/cb5ffd3997bb400cbc2013ce19029137/artifacts
+end_time: 1790514484883
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: cb5ffd3997bb400cbc2013ce19029137
+run_name: unleashed-lamb-532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514481362
+status: 3
+tags: []
+user_id: root

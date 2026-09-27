@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/95ea4c9fda4c41dca1f785d1093bc12e/artifacts
+end_time: 1790514568977
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 95ea4c9fda4c41dca1f785d1093bc12e
+run_name: whimsical-lark-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514565422
+status: 3
+tags: []
+user_id: root

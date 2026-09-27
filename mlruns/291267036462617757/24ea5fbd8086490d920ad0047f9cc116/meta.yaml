@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/24ea5fbd8086490d920ad0047f9cc116/artifacts
+end_time: 1790514558856
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 24ea5fbd8086490d920ad0047f9cc116
+run_name: placid-calf-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514555388
+status: 3
+tags: []
+user_id: root

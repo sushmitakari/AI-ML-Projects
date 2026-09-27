@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/226fd8688dd54f9088920130d5fb919c/artifacts
+end_time: 1790510456500
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 226fd8688dd54f9088920130d5fb919c
+run_name: delicate-snipe-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510453014
+status: 3
+tags: []
+user_id: root

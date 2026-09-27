@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/d2e4bb6b65574416ae33fbe83659b9cb/artifacts
+end_time: 1790514594789
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: d2e4bb6b65574416ae33fbe83659b9cb
+run_name: popular-ape-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514248759
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/bbc66eee668c4931aab0f1cfc900b17d/artifacts
+end_time: 1790511286980
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: bbc66eee668c4931aab0f1cfc900b17d
+run_name: secretive-shoat-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511283455
+status: 3
+tags: []
+user_id: root

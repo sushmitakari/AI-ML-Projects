@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/4ae73426519c44c8ad039c93788cc3b5/artifacts
+end_time: 1790514514353
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 4ae73426519c44c8ad039c93788cc3b5
+run_name: judicious-seal-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514510821
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/5e7a47bf7a824fb1a502c22bb86bc146/artifacts
+end_time: 1790514499604
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 5e7a47bf7a824fb1a502c22bb86bc146
+run_name: melodic-crow-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514496097
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/24c5668b3c82492394177013caddaaad/artifacts
+end_time: 1790510332741
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 24c5668b3c82492394177013caddaaad
+run_name: enchanting-midge-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510329208
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/55ec43a5d8fa485ea010723c46a88545/artifacts
+end_time: 1790514421250
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 55ec43a5d8fa485ea010723c46a88545
+run_name: youthful-panda-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514417724
+status: 3
+tags: []
+user_id: root

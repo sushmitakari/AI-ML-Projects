@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/61149a741abd483bb63d10024f3f094c/artifacts
+end_time: 1790510387033
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 61149a741abd483bb63d10024f3f094c
+run_name: valuable-hawk-765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510383470
+status: 3
+tags: []
+user_id: root

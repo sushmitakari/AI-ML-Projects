@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/857fd2c31bdc4a4b91a26a9a500d2098/artifacts
+end_time: 1790514460427
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 857fd2c31bdc4a4b91a26a9a500d2098
+run_name: rebellious-lynx-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514456791
+status: 3
+tags: []
+user_id: root

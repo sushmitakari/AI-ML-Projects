@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/e4935fa333a4442692067913b8738ace/artifacts
+end_time: 1790510570491
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: e4935fa333a4442692067913b8738ace
+run_name: intelligent-worm-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510566970
+status: 3
+tags: []
+user_id: root

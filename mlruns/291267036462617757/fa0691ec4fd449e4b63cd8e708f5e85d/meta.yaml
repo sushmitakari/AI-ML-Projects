@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/fa0691ec4fd449e4b63cd8e708f5e85d/artifacts
+end_time: 1790510391981
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: fa0691ec4fd449e4b63cd8e708f5e85d
+run_name: zealous-worm-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510388437
+status: 3
+tags: []
+user_id: root

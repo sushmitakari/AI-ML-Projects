@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/89f0a551b3fc40f6b748e0c600e0b342/artifacts
+end_time: 1790511198739
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 89f0a551b3fc40f6b748e0c600e0b342
+run_name: crawling-skink-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511195250
+status: 3
+tags: []
+user_id: root

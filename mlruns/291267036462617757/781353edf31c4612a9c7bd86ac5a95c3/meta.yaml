@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/781353edf31c4612a9c7bd86ac5a95c3/artifacts
+end_time: 1790510520894
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 781353edf31c4612a9c7bd86ac5a95c3
+run_name: calm-mare-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510517335
+status: 3
+tags: []
+user_id: root

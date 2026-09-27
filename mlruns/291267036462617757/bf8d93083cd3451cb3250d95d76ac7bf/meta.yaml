@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/bf8d93083cd3451cb3250d95d76ac7bf/artifacts
+end_time: 1790511164378
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: bf8d93083cd3451cb3250d95d76ac7bf
+run_name: whimsical-bee-720
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511160904
+status: 3
+tags: []
+user_id: root

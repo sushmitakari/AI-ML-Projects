@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/b3f31cd82df444538e6b1931c83f6591/artifacts
+end_time: 1790511291839
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: b3f31cd82df444538e6b1931c83f6591
+run_name: silent-frog-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511288353
+status: 3
+tags: []
+user_id: root

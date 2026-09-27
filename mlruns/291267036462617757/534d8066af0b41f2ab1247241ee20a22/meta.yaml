@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/534d8066af0b41f2ab1247241ee20a22/artifacts
+end_time: 1790511238089
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 534d8066af0b41f2ab1247241ee20a22
+run_name: worried-swan-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511234565
+status: 3
+tags: []
+user_id: root

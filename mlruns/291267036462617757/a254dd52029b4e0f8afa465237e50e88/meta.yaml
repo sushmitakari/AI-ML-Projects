@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a254dd52029b4e0f8afa465237e50e88/artifacts
+end_time: 1790514445655
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a254dd52029b4e0f8afa465237e50e88
+run_name: intrigued-shrimp-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514442156
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/819d791d386e44c98bc46be9b982c7ba/artifacts
+end_time: 1790511061581
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 819d791d386e44c98bc46be9b982c7ba
+run_name: puzzled-lynx-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511058096
+status: 3
+tags: []
+user_id: root

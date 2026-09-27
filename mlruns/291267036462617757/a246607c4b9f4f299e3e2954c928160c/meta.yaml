@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a246607c4b9f4f299e3e2954c928160c/artifacts
+end_time: 1790511056681
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a246607c4b9f4f299e3e2954c928160c
+run_name: entertaining-pig-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511053170
+status: 3
+tags: []
+user_id: root

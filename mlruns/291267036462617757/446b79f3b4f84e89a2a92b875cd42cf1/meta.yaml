@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/446b79f3b4f84e89a2a92b875cd42cf1/artifacts
+end_time: 1790510491117
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 446b79f3b4f84e89a2a92b875cd42cf1
+run_name: spiffy-slug-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510487593
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/1ee3f7fc3b87423ea6236e93375fd601/artifacts
+end_time: 1790514465274
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 1ee3f7fc3b87423ea6236e93375fd601
+run_name: righteous-crab-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790514461795
+status: 3
+tags: []
+user_id: root

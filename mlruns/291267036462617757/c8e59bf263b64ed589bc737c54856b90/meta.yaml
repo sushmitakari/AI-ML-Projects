@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/c8e59bf263b64ed589bc737c54856b90/artifacts
+end_time: 1790510352405
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: c8e59bf263b64ed589bc737c54856b90
+run_name: honorable-grouse-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510348871
+status: 3
+tags: []
+user_id: root

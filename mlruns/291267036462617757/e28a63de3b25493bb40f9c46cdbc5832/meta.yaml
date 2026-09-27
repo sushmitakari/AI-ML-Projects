@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/e28a63de3b25493bb40f9c46cdbc5832/artifacts
+end_time: 1790511095915
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: e28a63de3b25493bb40f9c46cdbc5832
+run_name: awesome-deer-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511092398
+status: 3
+tags: []
+user_id: root

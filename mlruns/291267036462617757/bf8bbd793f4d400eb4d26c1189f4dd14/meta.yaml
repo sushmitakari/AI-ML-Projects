@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/bf8bbd793f4d400eb4d26c1189f4dd14/artifacts
+end_time: 1790510560556
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: bf8bbd793f4d400eb4d26c1189f4dd14
+run_name: stylish-bat-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790510557027
+status: 3
+tags: []
+user_id: root

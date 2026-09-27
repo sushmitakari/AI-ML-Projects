@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/76a8fc28407c42fab8918d64162161e4/artifacts
+end_time: 1790511193833
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 76a8fc28407c42fab8918d64162161e4
+run_name: gregarious-cod-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790511190328
+status: 3
+tags: []
+user_id: root
