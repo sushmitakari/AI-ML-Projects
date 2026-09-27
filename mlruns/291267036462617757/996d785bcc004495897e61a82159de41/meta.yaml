@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/996d785bcc004495897e61a82159de41/artifacts
+end_time: 1790516387014
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 996d785bcc004495897e61a82159de41
+run_name: upbeat-gnat-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516384496
+status: 3
+tags: []
+user_id: root

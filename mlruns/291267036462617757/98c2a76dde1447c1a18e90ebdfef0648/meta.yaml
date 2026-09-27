@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/98c2a76dde1447c1a18e90ebdfef0648/artifacts
+end_time: 1790516542565
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 98c2a76dde1447c1a18e90ebdfef0648
+run_name: bustling-dolphin-144
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516540052
+status: 3
+tags: []
+user_id: root

@@ -31,7 +31,7 @@ if model is not None:
     product_allocated_area = st.number_input("Product Allocated Area", min_value=0.0, max_value=0.5, value=0.1, step=0.01)
     product_mrp = st.number_input("Product MRP($)", min_value=50.0, max_value=300.0, value=150.0, step=1.0)
 
-    product_category_options = ['FD', 'DR', 'NC'] # Based on prep.py logic (Product_Id prefix)
+    product_category_options = ['Food', 'Drinks', 'Non Consumables'] # Based on prep.py logic (Product_Id prefix)
     product_category = st.selectbox("Product Category", options=product_category_options)
 
     product_type_options = [

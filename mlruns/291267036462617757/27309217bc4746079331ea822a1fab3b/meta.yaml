@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/27309217bc4746079331ea822a1fab3b/artifacts
+end_time: 1790516397804
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 27309217bc4746079331ea822a1fab3b
+run_name: youthful-hen-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516395284
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/095d73c518ba4d23aeaf4dde6debb6dd/artifacts
+end_time: 1790516404871
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 095d73c518ba4d23aeaf4dde6debb6dd
+run_name: traveling-turtle-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516402380
+status: 3
+tags: []
+user_id: root

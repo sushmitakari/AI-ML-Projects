@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/ce1aa163f1184fb7bb28cf5cad100dce/artifacts
+end_time: 1790516524957
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: ce1aa163f1184fb7bb28cf5cad100dce
+run_name: rogue-croc-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516522434
+status: 3
+tags: []
+user_id: root

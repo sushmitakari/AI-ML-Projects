@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/de604f5104c74e83b324b185b103fedb/artifacts
+end_time: 1790516443824
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: de604f5104c74e83b324b185b103fedb
+run_name: calm-snake-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516441163
+status: 3
+tags: []
+user_id: root

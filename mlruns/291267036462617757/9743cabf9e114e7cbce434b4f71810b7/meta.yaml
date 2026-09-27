@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/9743cabf9e114e7cbce434b4f71810b7/artifacts
+end_time: 1790516521428
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 9743cabf9e114e7cbce434b4f71810b7
+run_name: dapper-ape-331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516518921
+status: 3
+tags: []
+user_id: root

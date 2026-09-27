@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a7fc3b667005489f8e4f045b57218933/artifacts
+end_time: 1790516440164
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a7fc3b667005489f8e4f045b57218933
+run_name: spiffy-turtle-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516437630
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a1dbdea28a3149419b9ddc460c6b03c2/artifacts
+end_time: 1790516365886
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a1dbdea28a3149419b9ddc460c6b03c2
+run_name: lyrical-asp-442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516363393
+status: 3
+tags: []
+user_id: root

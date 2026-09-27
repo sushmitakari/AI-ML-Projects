@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/56501acc68de4c3392f027dd5bc3946a/artifacts
+end_time: 1790516454383
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 56501acc68de4c3392f027dd5bc3946a
+run_name: adorable-doe-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516451877
+status: 3
+tags: []
+user_id: root

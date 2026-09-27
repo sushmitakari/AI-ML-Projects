@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/43786056614e411381a378be9a288c6c/artifacts
+end_time: 1790516531992
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 43786056614e411381a378be9a288c6c
+run_name: clumsy-yak-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516529488
+status: 3
+tags: []
+user_id: root

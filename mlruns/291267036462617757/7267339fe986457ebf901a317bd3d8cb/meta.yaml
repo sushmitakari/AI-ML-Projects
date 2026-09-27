@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/7267339fe986457ebf901a317bd3d8cb/artifacts
+end_time: 1790516479044
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 7267339fe986457ebf901a317bd3d8cb
+run_name: languid-mink-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516476538
+status: 3
+tags: []
+user_id: root

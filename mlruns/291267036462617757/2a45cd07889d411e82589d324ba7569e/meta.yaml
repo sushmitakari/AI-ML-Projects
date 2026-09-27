@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/2a45cd07889d411e82589d324ba7569e/artifacts
+end_time: 1790516565276
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 2a45cd07889d411e82589d324ba7569e
+run_name: gaudy-foal-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516314094
+status: 3
+tags: []
+user_id: root

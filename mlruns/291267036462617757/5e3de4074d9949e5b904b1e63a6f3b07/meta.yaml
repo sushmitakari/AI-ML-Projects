@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/5e3de4074d9949e5b904b1e63a6f3b07/artifacts
+end_time: 1790516496651
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 5e3de4074d9949e5b904b1e63a6f3b07
+run_name: popular-cub-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516494126
+status: 3
+tags: []
+user_id: root

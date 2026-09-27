@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/a8bbdcd9546244629c76f2c46902ace1/artifacts
+end_time: 1790516341179
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: a8bbdcd9546244629c76f2c46902ace1
+run_name: merciful-fox-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516338646
+status: 3
+tags: []
+user_id: root

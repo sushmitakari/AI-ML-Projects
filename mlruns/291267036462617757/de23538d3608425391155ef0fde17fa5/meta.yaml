@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/de23538d3608425391155ef0fde17fa5/artifacts
+end_time: 1790516450861
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: de23538d3608425391155ef0fde17fa5
+run_name: nebulous-lamb-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516448332
+status: 3
+tags: []
+user_id: root

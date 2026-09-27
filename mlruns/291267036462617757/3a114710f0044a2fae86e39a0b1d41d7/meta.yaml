@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/3a114710f0044a2fae86e39a0b1d41d7/artifacts
+end_time: 1790516401364
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 3a114710f0044a2fae86e39a0b1d41d7
+run_name: fearless-carp-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516398824
+status: 3
+tags: []
+user_id: root

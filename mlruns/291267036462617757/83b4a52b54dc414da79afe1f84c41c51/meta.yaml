@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/83b4a52b54dc414da79afe1f84c41c51/artifacts
+end_time: 1790516383491
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: 83b4a52b54dc414da79afe1f84c41c51
+run_name: popular-mule-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516380966
+status: 3
+tags: []
+user_id: root

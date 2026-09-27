@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/e215a4620da545bcbe3dc2259cf65ba4/artifacts
+end_time: 1790516510870
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: e215a4620da545bcbe3dc2259cf65ba4
+run_name: resilient-shrew-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516508345
+status: 3
+tags: []
+user_id: root

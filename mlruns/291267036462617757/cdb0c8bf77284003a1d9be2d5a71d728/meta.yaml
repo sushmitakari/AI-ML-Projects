@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/cdb0c8bf77284003a1d9be2d5a71d728/artifacts
+end_time: 1790516408394
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: cdb0c8bf77284003a1d9be2d5a71d728
+run_name: chill-dove-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516405881
+status: 3
+tags: []
+user_id: root

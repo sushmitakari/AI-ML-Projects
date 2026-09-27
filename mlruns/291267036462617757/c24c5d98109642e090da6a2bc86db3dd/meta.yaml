@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291267036462617757/c24c5d98109642e090da6a2bc86db3dd/artifacts
+end_time: 1790516351831
+entry_point_name: ''
+experiment_id: '291267036462617757'
+lifecycle_stage: active
+run_id: c24c5d98109642e090da6a2bc86db3dd
+run_name: stylish-crow-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790516349238
+status: 3
+tags: []
+user_id: root
