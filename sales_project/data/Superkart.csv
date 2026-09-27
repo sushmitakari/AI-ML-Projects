@@ -1,0 +1,6 @@
+Product_Id,Product_Weight,Product_Sugar_Content,Product_Allocated_Area,Product_Type,Product_MRP,Store_Id,Store_Establishment_Year,Store_Size,Store_Location_City_Type,Store_Type,Product_Store_Sales_Total
+FD001,10.0,Regular,0.1,Dairy,100.0,ST001,2000,Medium,Tier 1,Supermarket Type1,1000.0
+DR002,5.0,Low Sugar,0.2,Soft Drinks,50.0,ST001,2000,Medium,Tier 1,Supermarket Type1,500.0
+NC003,15.0,No Sugar,0.15,Household,200.0,ST002,2005,Small,Tier 2,Departmental Store,1500.0
+FD004,8.0,Regular,0.1,Fruits and Vegetables,120.0,ST003,2010,High,Tier 3,Grocery Store,800.0
+DR005,12.0,Low Sugar,0.22,Meat,180.0,ST002,2005,Small,Tier 2,Departmental Store,1200.0

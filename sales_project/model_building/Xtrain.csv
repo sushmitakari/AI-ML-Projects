@@ -1,0 +1,5 @@
+Product_Weight,Product_Allocated_Area,Product_Type,Product_MRP,Store_Establishment_Year,Store_Size,Store_Location_City_Type,Store_Type,Product_Category,Product_Sugar_Content_Mapped,Store_Age,Store_Product_Count,Price_Per_Weight,Relative_MRP,Sales_Per_Area_Ratio
+12.0,0.22,Meat,180.0,2005,Small,Tier 2,Departmental Store,DR,1,19,2,15.0,1.0,5454.545454545455
+15.0,0.15,Household,200.0,2005,Small,Tier 2,Departmental Store,NC,3,19,2,13.333333333333334,1.0,10000.0
+10.0,0.1,Dairy,100.0,2000,Medium,Tier 1,Supermarket Type1,FD,2,24,2,10.0,1.0,10000.0
+8.0,0.1,Fruits and Vegetables,120.0,2010,High,Tier 3,Grocery Store,FD,2,14,1,15.0,1.0,8000.0
