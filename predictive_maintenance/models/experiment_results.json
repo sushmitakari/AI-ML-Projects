@@ -1,0 +1,64 @@
+{
+    "champion_model": "AdaBoost",
+    "feature_names": [
+        "Engine rpm",
+        "Lub oil pressure",
+        "Fuel pressure",
+        "Coolant pressure",
+        "lub oil temp",
+        "Coolant temp"
+    ],
+    "experiments": {
+        "Decision Tree": {
+            "best_params": {
+                "criterion": "gini",
+                "max_depth": 5,
+                "min_samples_split": 2
+            },
+            "cv_best_score_f1": 0.7558902227527176,
+            "test_accuracy": 0.6598413104683901,
+            "test_precision": 0.6895053475935828,
+            "test_recall": 0.8375964271213967,
+            "test_f1": 0.7563703024747938,
+            "test_roc_auc": 0.6821695160396022
+        },
+        "Random Forest": {
+            "best_params": {
+                "max_depth": 5,
+                "min_samples_split": 5,
+                "n_estimators": 100
+            },
+            "cv_best_score_f1": 0.7725194250831643,
+            "test_accuracy": 0.6593294087535193,
+            "test_precision": 0.6727716727716728,
+            "test_recall": 0.8948436865611044,
+            "test_f1": 0.7680780623802056,
+            "test_roc_auc": 0.69885173138629
+        },
+        "AdaBoost": {
+            "best_params": {
+                "learning_rate": 0.01,
+                "n_estimators": 50
+            },
+            "cv_best_score_f1": 0.7734086781325666,
+            "test_accuracy": 0.6304069618633222,
+            "test_precision": 0.6304069618633222,
+            "test_recall": 1.0,
+            "test_f1": 0.7733124018838304,
+            "test_roc_auc": 0.6443266156287571
+        },
+        "Gradient Boosting": {
+            "best_params": {
+                "learning_rate": 0.05,
+                "max_depth": 3,
+                "n_estimators": 50
+            },
+            "cv_best_score_f1": 0.7691528250347458,
+            "test_accuracy": 0.6626567699001792,
+            "test_precision": 0.6805424156417534,
+            "test_recall": 0.8761672756800649,
+            "test_f1": 0.7660631877884274,
+            "test_roc_auc": 0.6972721204575641
+        }
+    }
+}
