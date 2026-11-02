@@ -11,13 +11,13 @@ import streamlit as st
 
 st.set_page_config(
     page_title='Engine Predictive Maintenance System',
-    page_icon='⚙️',
+    page_icon='gear',
     layout='wide'
 )
 
-st.title('⚙️ Engine Predictive Maintenance System')
+st.title('Engine Predictive Maintenance System')
 st.markdown("""
-This intelligent monitoring application utilizes machine learning trained on sensor telemetry 
+This intelligent monitoring application utilizes machine learning trained on sensor telemetry
 to assess engine operating conditions and identify potential failures before they occur.
 """)
 
@@ -31,7 +31,7 @@ def load_model():
 
 model = load_model()
 
-st.sidebar.header('📊 Sensor Telemetry Input')
+st.sidebar.header('Sensor Telemetry Input')
 
 engine_rpm = st.sidebar.slider(
     'Engine Speed (RPM)',
@@ -100,9 +100,8 @@ input_df = pd.DataFrame(input_dict)
 col1, col2 = st.columns([1, 1])
 
 with col1:
-    st.subheader('📋 Current Sensor Readings')
+    st.subheader('Current Sensor Readings')
     st.dataframe(input_df.T.rename(columns={0: 'Reading Value'}))
-    
     st.markdown('### Operational Benchmarks')
     st.markdown("""
     - **Normal RPM:** 600 - 1100 RPM
@@ -111,12 +110,10 @@ with col1:
     """)
 
 with col2:
-    st.subheader('🔍 Diagnostic Assessment')
-    
+    st.subheader('Diagnostic Assessment')
     if model is not None:
-        if st.button('🚀 Run Health Diagnostic', use_container_width=True, type='primary'):
+        if st.button('Run Health Diagnostic', use_container_width=True, type='primary'):
             prediction = model.predict(input_df)[0]
-            
             if hasattr(model, 'predict_proba'):
                 prob = model.predict_proba(input_df)[0]
                 fault_prob = prob[1]
@@ -124,11 +121,9 @@ with col2:
             else:
                 fault_prob = 1.0 if prediction == 1 else 0.0
                 normal_prob = 1.0 - fault_prob
-                
             st.divider()
-            
             if prediction == 1:
-                st.error('⚠️ **ALERT: Engine Fault / Maintenance Required!**')
+                st.error('ALERT: Engine Fault / Maintenance Required!')
                 st.metric(label='Failure Risk Probability', value=f'{fault_prob * 100:.1f}%')
                 st.warning("""
                 **Recommended Maintenance Actions:**
@@ -137,11 +132,11 @@ with col2:
                 3. Perform immediate diagnostic scan before next operational shift.
                 """)
             else:
-                st.success('✅ **STATUS: Engine Operating Normally**')
+                st.success('STATUS: Engine Operating Normally')
                 st.metric(label='Normal Operating Confidence', value=f'{normal_prob * 100:.1f}%')
-                st.info('All sensor telemetry values are within optimal operating bounds. No immediate intervention required.')
+                st.info('All sensor telemetry values are within optimal operating bounds.')
     else:
-        st.warning('Please ensure model artifact `models/best_model.pkl` is built and available.')
+        st.warning('Please ensure model artifact models/best_model.pkl is available.')
 
 st.divider()
-st.caption('Predictive Maintenance ML Pipeline & Monitoring Dashboard | Built with Streamlit & Scikit-Learn')
+st.caption('Predictive Maintenance ML Pipeline | Built with Streamlit & Scikit-Learn')
