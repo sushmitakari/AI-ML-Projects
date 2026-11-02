@@ -1,6 +1,13 @@
 {
-    "champion_model": "AdaBoost",
-    "feature_names": [
+    "champion_model": "XGBoost",
+    "champion_metrics": {
+        "test_f1_score": 0.7768541157294213,
+        "test_recall": 0.9675192854242793,
+        "test_precision": 0.6489651416122004,
+        "test_accuracy": 0.6496032761709751,
+        "test_roc_auc": 0.6893837661658474
+    },
+    "features": [
         "Engine rpm",
         "Lub oil pressure",
         "Fuel pressure",
@@ -8,57 +15,66 @@
         "lub oil temp",
         "Coolant temp"
     ],
-    "experiments": {
+    "experiment_summary": {
         "Decision Tree": {
             "best_params": {
-                "criterion": "gini",
+                "criterion": "entropy",
                 "max_depth": 5,
                 "min_samples_split": 2
             },
-            "cv_best_score_f1": 0.7558902227527176,
-            "test_accuracy": 0.6598413104683901,
-            "test_precision": 0.6895053475935828,
-            "test_recall": 0.8375964271213967,
-            "test_f1": 0.7563703024747938,
-            "test_roc_auc": 0.6821695160396022
+            "cv_f1_score": 0.7585104008841588,
+            "test_f1_score": 0.7533648599490724,
+            "test_recall": 0.8408444985789687,
+            "test_precision": 0.6823723228995058,
+            "test_roc_auc": 0.6769491802780879
         },
         "Random Forest": {
             "best_params": {
+                "criterion": "entropy",
                 "max_depth": 5,
-                "min_samples_split": 5,
-                "n_estimators": 100
+                "min_samples_split": 2,
+                "n_estimators": 150
             },
-            "cv_best_score_f1": 0.7725194250831643,
-            "test_accuracy": 0.6593294087535193,
-            "test_precision": 0.6727716727716728,
-            "test_recall": 0.8948436865611044,
-            "test_f1": 0.7680780623802056,
-            "test_roc_auc": 0.69885173138629
+            "cv_f1_score": 0.77332494260936,
+            "test_f1_score": 0.770746887966805,
+            "test_recall": 0.904993909866017,
+            "test_precision": 0.6711833785004516,
+            "test_roc_auc": 0.6984124038540482
         },
         "AdaBoost": {
             "best_params": {
-                "learning_rate": 0.01,
-                "n_estimators": 50
+                "learning_rate": 0.05,
+                "n_estimators": 100
             },
-            "cv_best_score_f1": 0.7734086781325666,
-            "test_accuracy": 0.6304069618633222,
-            "test_precision": 0.6304069618633222,
+            "cv_f1_score": 0.7745485424827202,
+            "test_f1_score": 0.7733124018838304,
             "test_recall": 1.0,
-            "test_f1": 0.7733124018838304,
-            "test_roc_auc": 0.6443266156287571
+            "test_precision": 0.6304069618633222,
+            "test_roc_auc": 0.6764444808090487
         },
         "Gradient Boosting": {
             "best_params": {
-                "learning_rate": 0.05,
+                "learning_rate": 0.01,
                 "max_depth": 3,
-                "n_estimators": 50
+                "n_estimators": 100
             },
-            "cv_best_score_f1": 0.7691528250347458,
-            "test_accuracy": 0.6626567699001792,
-            "test_precision": 0.6805424156417534,
-            "test_recall": 0.8761672756800649,
-            "test_f1": 0.7660631877884274,
-            "test_roc_auc": 0.6972721204575641
+            "cv_f1_score": 0.7767178423669109,
+            "test_f1_score": 0.7766547114444082,
+            "test_recall": 0.9671132764920828,
+            "test_precision": 0.6488695178425498,
+            "test_roc_auc": 0.6898734230601826
+        },
+        "XGBoost": {
+            "best_params": {
+                "learning_rate": 0.01,
+                "max_depth": 3,
+                "n_estimators": 100
+            },
+            "cv_f1_score": 0.7759441301378388,
+            "test_f1_score": 0.7768541157294213,
+            "test_recall": 0.9675192854242793,
+            "test_precision": 0.6489651416122004,
+            "test_roc_auc": 0.6893837661658474
         }
     }
 }
